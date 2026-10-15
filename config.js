@@ -1,6 +1,3 @@
-/* ตั้งค่าระบบ
- * API_URL = URL ของเว็บแอป Google Apps Script (ลงท้ายด้วย /exec)
- * ถ้าเว้นว่าง หรือเปิดหน้าเว็บด้วย ?demo=1 ระบบจะทำงานในโหมดทดลอง (ข้อมูลสมมติ เก็บในเบราว์เซอร์) */
 window.APP_CONFIG = {
-  API_URL: ''
+  API_URL: 'https://script.google.com/macros/s/AKfycbzu5RP-zOMhmP_cR9XaV2quwHvS1RPyOllxZNIiqKmBUTQ68iGjS-zd7WLBaR58eTsuOw/exec'
 };
